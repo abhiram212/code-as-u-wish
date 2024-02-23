@@ -1,0 +1,188 @@
+body
+{
+  margin: 0;
+}
+.firstslide
+{
+  background-color: black;
+  padding-bottom: 50px;
+}
+.menu
+{
+  padding-right: 40px;
+  padding-top: 10px;
+  margin: 0;
+}
+.li
+{
+  display: inline-flex;
+  color: white;
+  margin-right: 30px;
+  transition: transform 2s;
+}
+.firstslide ul li
+{
+  margin: 15px;
+  padding: 10px;
+}
+.li:hover
+{
+  cursor: pointer;
+  color: aqua;
+   transform: rotate(360deg);
+}
+.lastli
+{
+  position: absolute;
+  display: inline-block;
+  right: 20px;
+  background-color: aqua;
+  color: black;
+  border: 1px solid white;
+}
+.lastli:hover
+{
+  cursor: pointer;
+  background-color: white;
+}
+.img
+{
+  height: 25px;
+  padding-right: 10px;
+
+}
+.sun
+{
+  height: 300px;
+  margin-right: 150px;
+  float: left;
+  margin-top: 70px;
+}
+.second
+{
+  font-family: system-ui;
+  font-size: 20px;
+  margin: 85px 0 0;
+  padding-top: 10px;
+  color: aqua;
+}
+.second1
+{
+
+  font-size: 40px;
+  color: white;
+  font-family: "Gill Sans", sans-serif;
+
+}
+.husky-img
+{
+  margin: 0;
+}
+.span
+{
+  padding-top: 10px;
+  display: block;
+  color: aqua;
+  font-family: sans-serif;
+  animation: shine 10s infinite;
+  text-decoration: overline;
+}
+.p
+
+{
+  font-size: 20px;
+  color:white;
+  line-height: 1.5;
+}
+/* .husky-img
+{
+  height: 350px;
+
+} */
+.husky
+{
+  height: 280px;
+  float: left;
+  margin-right: 250px;
+}
+.about
+{
+  font-size: 40px;
+  font-family: system-ui;
+
+  /* text-align: center; */
+  padding-top: 40px;
+}
+.matter
+{
+  font-family: system-ui;
+}
+.matter1
+{
+  line-height: 1.5;
+  font-size: 20px;
+  /* padding-bottom: 50px; */
+}
+.lastslide
+{
+  background-color: black;
+  margin: 0;
+  padding-bottom: 50px;
+}
+.ser
+{
+  text-align: center;
+  padding-top: 50px;
+  color: aqua;
+}
+.bg1
+{
+  color: black;
+  background-color: white;
+}
+.p1
+{
+  color: white;
+  text-align: center;
+}
+.graph
+{
+  color: black;
+}
+.box1
+{
+  background-color: white;
+  margin: 0 auto;
+  width: 70%;
+  text-align: center;
+}
+.web
+{
+  color: black;
+}
+.box2
+{
+  background-color: white;
+  width: 70%;
+  text-align: center;
+  margin: 0 auto;
+}
+.DSA
+{
+  color: black;
+}
+.box3
+{
+  margin: 0 auto;
+  background-color: white;
+  width: 70%;
+  text-align: center;
+}
+.l
+{
+  display: flex;
+}
+.l1
+{
+  margin-left: 240px;
+}
